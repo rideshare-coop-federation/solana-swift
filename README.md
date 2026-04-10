@@ -8,6 +8,7 @@ All original work and credit belong to the original TRIP / Teleport contributors
 
 Governance of this work is intended to transition to a Federation of Driver-Owned Rideshare Cooperatives once formally established.
 
+For stewardship details, see [STEWARDSHIP.md](./STEWARDSHIP.md)
 ---
 
 
